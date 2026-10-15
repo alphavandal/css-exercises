@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+.odd {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#div2 {
+    color: blue;
+    font-size: 36px;
+
+}
+
+.font-size-change{
+    font-size: 24px;
+
+}
+
+#div1 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
